@@ -29,5 +29,5 @@ class Person
     end
   end
 
-  binding.pry
+  
 end
