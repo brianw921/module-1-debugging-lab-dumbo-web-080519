@@ -24,6 +24,7 @@ class Person
     else
       10.times do
         "not a ballin candy lover"
+      end  #error unexpected error
     end
   end
 end
