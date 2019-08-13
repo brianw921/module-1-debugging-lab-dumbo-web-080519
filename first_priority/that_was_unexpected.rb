@@ -19,7 +19,7 @@ class Person
     true
   end
 
-  def ballin_candy_lover?
+  def that_was_unexpected
     if @candy_lover == true
       "Aw sweet, this cat loves them some candy!"
     else
